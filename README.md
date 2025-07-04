@@ -14,6 +14,7 @@ actually in BTS SIO
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 <img align="right" width="150" height="150" src="https://github.com/virrae/virrae/assets/116673518/94d436ce-fe35-4307-99da-269822f921ee"></a>
 ### Competences coming soon :
