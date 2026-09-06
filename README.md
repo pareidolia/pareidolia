@@ -1,12 +1,11 @@
-🌐 Hello World !
+# 🌐 Hello World !
 
-<div align="center">
-
-<img src="https://i.pinimg.com/originals/ae/56/d1/ae56d10f023f455739a635e435732a94.gif" width="600"/>
-
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/ae/56/d1/ae56d10f023f455739a635e435732a94.gif" width="600"/>
 </div>
 
-👨‍💻 À propos de moi
+
+## 👨‍💻 À propos de moi
 
 Je suis Marwan Nazrati, développeur junior et récemment diplômé d'un BTS SIO option SLAM (Solutions Logicielles et Applications Métiers).
 
