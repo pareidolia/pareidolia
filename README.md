@@ -1,9 +1,8 @@
 # 🌐 Hello World !
 
 <div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/c907472c-a844-42ac-bc02-ed0a031451ab" width="600"/>
+  <img src="https://media.giphy.com/media/upMEKtG4p7kuRmNOEL/giphy.gif" width="600"/>
 </div>
-
 
 
 ## 👨‍💻 À propos de moi
