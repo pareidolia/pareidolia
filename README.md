@@ -73,8 +73,8 @@ Développement d'une application web permettant de consulter et d'organiser les 
 
 **Technologies :**
 
-![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=flat-square\&logo=csharp\&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-%23512BD4.svg?style=flat-square\&logo=blazor\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-%23512BD4.svg?style=for-the-badge\&logo=blazor\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square\&logo=postgresql\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -89,8 +89,8 @@ Conception et intégration de modules de gestion immobilière avec une partie co
 **Technologies :**
 
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square\&logo=angular\&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-%23512BD4.svg?style=flat-square\&logo=blazor\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=flat-square\&logo=csharp\&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-%23512BD4.svg?style=for-the-badge\&logo=blazor\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ---
@@ -103,7 +103,7 @@ Développement d'une application permettant de comparer différentes configurati
 
 **Technologies :**
 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square\&logo=php\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square\&logo=mysql\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square\&logo=html5\&logoColor=white)
