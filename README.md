@@ -23,6 +23,7 @@ Je suis également à la recherche d'une alternance à partir de septembre 2026,
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square\&logo=javascript\&logoColor=black)
 
 ## 🌐 Frameworks & technologies
 
