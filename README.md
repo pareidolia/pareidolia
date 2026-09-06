@@ -1,3 +1,21 @@
+🌐 Hello World !
+
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/ae/56/d1/ae56d10f023f455739a635e435732a94.gif" width="600"/>
+
+</div>
+
+👨‍💻 À propos de moi
+
+Je suis Marwan Nazrati, développeur junior et récemment diplômé d'un BTS SIO option SLAM (Solutions Logicielles et Applications Métiers).
+
+Passionné par l'informatique et le développement, je m'intéresse particulièrement à la conception d'applications, au développement web et aux solutions logicielles.
+
+Je poursuis actuellement mon parcours au CESI de Strasbourg dans le cadre d'un Bachelor Développeur Concepteur d'Applications.
+
+Je suis également à la recherche d'une alternance à partir de septembre 2026, afin de continuer à développer mes compétences au sein d'une équipe professionnelle et de participer à des projets concrets.
+
 # 🛠️ Compétences techniques
 
 ## 💻 Langages
