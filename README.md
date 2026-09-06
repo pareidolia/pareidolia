@@ -7,7 +7,7 @@
 
 ## 👨‍💻 À propos de moi
 
-Je suis Marwan Nazrati, développeur junior et récemment diplômé d'un BTS SIO option SLAM (Solutions Logicielles et Applications Métiers).
+Je suis Marwan, développeur junior et récemment diplômé d'un BTS SIO option SLAM (Solutions Logicielles et Applications Métiers).
 
 Passionné par l'informatique et le développement, je m'intéresse particulièrement à la conception d'applications, au développement web et aux solutions logicielles.
 
